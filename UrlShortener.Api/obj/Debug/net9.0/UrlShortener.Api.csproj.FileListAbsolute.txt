@@ -1,0 +1,8 @@
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.AssemblyInfo.cs
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\UrlShortener.Api\obj\Debug\net9.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
